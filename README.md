@@ -1,7 +1,7 @@
 🎬 Movie Ratings: Critics vs Audience
 📌 Project Description
 This project analyzes movie ratings by comparing professional critics’ evaluations with audience ratings. The goal is to understand whether critics and audiences agree on movie quality and to identify factors that influence differences between their ratings.
-🎯 Objectives
+🎯 Objectives 
 Compare critics’ ratings with audience ratings
 Analyze rating differences and overall trends
 Examine the impact of audience engagement on ratings
